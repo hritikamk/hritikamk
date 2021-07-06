@@ -1,6 +1,7 @@
 
 
-## Hey there! :wave: I'm Hritika
+## Hey there!
+## :wave: I'm Hritika
 
 
 ### :octocat:: &nbsp;About Me
