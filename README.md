@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ## Hey there! :wave: I'm Hritika
 
