@@ -41,16 +41,16 @@ __IDEs/Editors__ \
 __Version Control__ \
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
-<img alt="GitBash" src="https://img.shields.io/badge/-GitBash-blue"/>&nbsp;
+<img alt="GitBash" src="https://img.shields.io/badge/-GitBash-blue/?style=for-the-badge&logo=appveyor"/>&nbsp;
 
 __Databases__ \
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
 
 
 __Blockchain__ \
-<img alt="Ganache" src="https://img.shields.io/badge/-Ganache-yellow"/>&nbsp;
-<img alt="Truffle" src="https://img.shields.io/badge/-Truffle-critical"/>&nbsp;
-<img alt="GitBash" src="https://img.shields.io/badge/-GitBash-blue"/>&nbsp;
+<img alt="Ganache" src="https://img.shields.io/badge/-Ganache-yellow/?style=for-the-badge&logo=appveyor"/>&nbsp;
+<img alt="Truffle" src="https://img.shields.io/badge/-Truffle-critical/?style=for-the-badge&logo=appveyor"/>&nbsp;
+<img alt="GitBash" src="https://img.shields.io/badge/-GitBash-blue/?style=for-the-badge&logo=appveyor"/>&nbsp;
 
 
 __Machine Learning__ \
