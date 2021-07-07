@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm on track for learning more about AI, AR/VR, Chainlink, Mycellium.\
 ✍️ &nbsp;In my free time, I participate on Ethereum/ Blockchain competitions on Devfolio and Gitcoin .\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at hritikak@pm.me I'll try to respond ASAP.
+✉️ &nbsp;You can shoot me an email at hritikak@pm.me . I'll try to respond ASAP.
 
 
 
