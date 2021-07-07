@@ -36,7 +36,7 @@ __Frameworks and libraries__ \
 __IDEs/Editors__ \
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
 <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>&nbsp;
-<img alt="Remix" src="https://img.shields.io/badge/Remix-IDE-lightgrey/?style=for-the-badge&logo=appveyor"/>&nbsp;
+<img alt="Remix" src="https://img.shields.io/badge/Remix-IDE-lightgrey/?style=for-the-badge"/>&nbsp;
 
 __Version Control__ \
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
@@ -48,9 +48,9 @@ __Databases__ \
 
 
 __Blockchain__ \
-<img alt="Ganache" src="https://img.shields.io/badge/-Ganache-yellow/?style=for-the-badge&logo=appveyor"/>&nbsp;
-<img alt="Truffle" src="https://img.shields.io/badge/-Truffle-critical/?style=for-the-badge&logo=appveyor"/>&nbsp;
-<img alt="GitBash" src="https://img.shields.io/badge/-GitBash-blue/?style=for-the-badge&logo=appveyor"/>&nbsp;
+<img alt="Ganache" src="https://img.shields.io/badge/-Ganache-yellow?style=for-the-badge"/>&nbsp;
+<img alt="Truffle" src="https://img.shields.io/badge/-Truffle-critical?style=for-the-badge"/>&nbsp;
+<img alt="GitBash" src="https://img.shields.io/badge/-GitBash-blue?style=for-the-badge"/>&nbsp;
 
 
 __Machine Learning__ \
