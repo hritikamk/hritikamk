@@ -36,18 +36,25 @@ __Frameworks and libraries__ \
 __IDEs/Editors__ \
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
 <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>&nbsp;
+<img alt="Remix" src="https://img.shields.io/badge/Remix-IDE-lightgrey/?style=for-the-badge&logo=appveyor"/>&nbsp;
 
 __Version Control__ \
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
+<img alt="GitBash" src="https://img.shields.io/badge/-GitBash-blue"/>&nbsp;
 
 __Databases__ \
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
 
 
+__Blockchain__ \
+<img alt="Ganache" src="https://img.shields.io/badge/-Ganache-yellow"/>&nbsp;
+<img alt="Truffle" src="https://img.shields.io/badge/-Truffle-critical"/>&nbsp;
+<img alt="GitBash" src="https://img.shields.io/badge/-GitBash-blue"/>&nbsp;
+
+
 __Machine Learning__ \
 
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />&nbsp;
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
 
