@@ -23,6 +23,8 @@
   * GRE Prepration 
   * A.I basics
 
+### What can I help with:question::cyclone:
+<code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
 
 ### 🛠 &nbsp;Tech Stack
 __Programming Languages__ \
