@@ -11,7 +11,7 @@
 🎓 &nbsp;I'm currently studying Computer Science(3rd year) .\
 🌱 &nbsp;I'm on track for learning more about AI, AR/VR, Chainlink, Mycellium.\
 ✍️ &nbsp;In my free time, I participate on Ethereum/ Blockchain competitions on Devfolio and Gitcoin .\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion. discord - Flamingo#9267\
+💬 &nbsp;Feel free to reach out to me for some interesting discussion. Discord - Flamingo#9267\
 ✉️ &nbsp;You can shoot me an email at hritikak@pm.me . I'll try to respond ASAP.
 
 
