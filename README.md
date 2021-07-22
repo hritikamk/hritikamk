@@ -27,7 +27,7 @@
 <code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
 
 ### 🛠 &nbsp;Tech Stack
-__Programming Languages__ \
+__Programming Languages, Environment and Framework__ \
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
