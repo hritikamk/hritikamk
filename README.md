@@ -7,7 +7,7 @@
 
 ### :octocat:: &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop Blockchain and web3 solutions and.\
+💡 &nbsp;I like to explore new technologies and develop Blockchain and web3 solutions.\
 🎓 &nbsp;I'm currently studying Computer Science Engineering (3rd year) .\
 🌱 &nbsp;I'm on track for learning more about AI, AR/VR, Chainlink, Mycellium.\
 ✍️ &nbsp;In my free time, I participate on Ethereum/ Blockchain competitions on Devfolio and Gitcoin .\
