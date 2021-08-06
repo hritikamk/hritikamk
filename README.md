@@ -1,7 +1,7 @@
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
-## :wave: I'm Hritika
+<h1 align="center">Hi 👋, I'm Hritika M Kucheriya</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritikamk&label=Profile%20views&color=0e75b6&style=flat" alt="hritikamk" /> </p>
 
@@ -14,6 +14,7 @@
 💬 &nbsp;Feel free to reach out to me for some interesting discussion. Discord - Flamingo#9267\
 ✉️ &nbsp;You can shoot me an email at hritikak@pm.me . I'll try to respond ASAP.
 
+<p align="left"> <a href="https://twitter.com/hritika_mk" target="blank"><img src="https://img.shields.io/twitter/follow/hritika_mk?logo=twitter&style=for-the-badge" alt="hritika_mk" /></a> </p>
 
 
 ### 🔭 &nbsp;I’m currently working on:
