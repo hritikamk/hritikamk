@@ -9,7 +9,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop Blockchain and web3 solutions.\
 🎓 &nbsp;I'm currently studying Computer Science Engineering (3rd year) .\
-🌱 &nbsp;I'm on track for learning more about AI, AR/VR, Chainlink, Mycellium.\
+🌱 &nbsp;I'm on track for learning more about AI, AR/VR, Chainlink, Polygon.\
 ✍️ &nbsp;In my free time, I participate on Ethereum/ Blockchain competitions on Devfolio and Gitcoin .\
 🌱 &nbsp;I'm trained for basic Graphology (Hand-writing Analysis) .\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion. Discord - Flamingo#9267\
