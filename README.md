@@ -21,7 +21,7 @@
 ### 🔭 &nbsp;I’m currently working on:
   * NFT projects
   * Ethereum competitions
-  * Vyper
+  * Polygon
   * GRE Prepration 
   * A.I basics
 
