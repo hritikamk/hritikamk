@@ -43,6 +43,16 @@ __Programming Languages, Environment and Framework__ \
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
 
-### �📈 &nbsp; My Activity
-![My activity graph](https://activity-graph.herokuapp.com/graph?username=hritikamk&theme=github&custom_title=My%20activity%20graph)
+## ⚙️ &nbsp;GitHub Analytics;
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hritikamk&label=Profile%20views&color=brightgreen&style=flat-square" alt="hritikamk" /> </p>
+
+
+<p align="center">
+<a href="https://github.com/hritikamk">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hritikamk&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hritikamk&layout=compact&langs_count=8&theme=algolia"/>
+</p>
+ 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5dqwa162yl5&amp;m=1&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
