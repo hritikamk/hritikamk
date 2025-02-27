@@ -3,7 +3,7 @@
 
 <h1 align="center"> I'm Hritika M Kucheriya 👋 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hritikamk&label=Profile%20views&color=0e75b6&style=flat" alt="hritikamk" /> </p>
+<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritikamk&label=Profile%20views&color=0e75b6&style=flat" alt="hritikamk" /> </p><> --->
 
 ### :octocat:: &nbsp;About Me
 
