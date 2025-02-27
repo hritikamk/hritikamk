@@ -15,7 +15,7 @@
 💬 &nbsp;Feel free to reach out to me for some interesting discussion. Discord - Flamingo#9267\
 ✉️ &nbsp;You can shoot me an email at hritikak@pm.me . I'll try to respond ASAP.
 
-<p align="left"> <a href="https://x.com/hritikamk" target="blank"><img src="https://img.shields.io/x/follow/hritikamk?logo=x&style=for-the-badge" alt="hritikamk" /></a> </p>
+<p align="left"> <a href="https://x.com/hritikamk" target="blank"><img src="https://img.shields.io/twitter/follow/hritikamk?logo=x&style=for-the-badge" alt="hritikamk" /></a> </p>
 
 
 ### 🔭 &nbsp;I’m currently working on:
