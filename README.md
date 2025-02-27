@@ -7,26 +7,26 @@
 
 ### :octocat:: &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop Blockchain and web3 solutions.\
-🎓 &nbsp;I'm currently studying Computer Science Engineering (3rd year) .\
-🌱 &nbsp;I'm on track for learning more about AI, AR/VR, Chainlink, Polygon.\
+💡 &nbsp;I like to explore new technologies and develop iOS, Blockchain and web3 solutions.\
+🎓 &nbsp;I'm currently pursuing my Masters in Computer Science at UNC Charlotte .\
+🌱 &nbsp;I'm on track for learning more about AI, AR/VR, Polygon.\
 ✍️ &nbsp;In my free time, I participate on Ethereum/ Blockchain competitions on Devfolio and Gitcoin .\
 🌱 &nbsp;I'm trained for basic Graphology (Hand-writing Analysis), Chirography and Calligraphy .\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion. Discord - Flamingo#9267\
 ✉️ &nbsp;You can shoot me an email at hritikak@pm.me . I'll try to respond ASAP.
 
-<p align="left"> <a href="https://twitter.com/hritikamk" target="blank"><img src="https://img.shields.io/twitter/follow/hritikamk?logo=twitter&style=for-the-badge" alt="hritikamk" /></a> </p>
+<p align="left"> <a href="https://x.com/hritikamk" target="blank"><img src="https://img.shields.io/x/follow/hritikamk?logo=x&style=for-the-badge" alt="hritikamk" /></a> </p>
 
 
 ### 🔭 &nbsp;I’m currently working on:
-  * NFT projects
+  * Swift Programming
   * Ethereum competitions
-  * Polygon
-  * GRE Prepration 
+  * NFT Projects
+  * My Masters
   * A.I basics
 
 ### What can I help with:question::cyclone:
-<code>git commit -m "Pretty much nerd stuffs and Math!"</code> :grin:
+<code>git commit -m "Pretty much nerd stuff and Math!"</code> :grin:
 
 ### 🛠 &nbsp;Tech Stack
 __Programming Languages, Environment and Framework__ \
