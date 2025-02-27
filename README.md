@@ -18,12 +18,12 @@
 <p align="left"> <a href="https://x.com/hritikamk" target="blank"><img src="https://img.shields.io/twitter/follow/hritikamk?logo=x&style=for-the-badge" alt="hritikamk" /></a> </p>
 
 
-### 🔭 &nbsp;I’m currently working on:
+### 🔭 &nbsp; I’m currently working on:
   * Swift Programming
-  * Ethereum competitions
-  * NFT Projects
-  * My Masters
-  * A.I basics
+  * Bitcoin lite node solutions
+    
+[![Hritika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hritikamk&bg_color=060505&color=c733bd&line=dbccda&point=403d3d&area=true&hide_border=true)](https://github.com/hritikamk)
+
 
 ### What can I help with:question::cyclone:
 <code>git commit -m "Pretty much nerd stuff and Math!"</code> :grin:
