@@ -7,12 +7,12 @@
 
 ### :octocat:: &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop iOS, Blockchain and web3 solutions.\
+💡 &nbsp;I like to explore new technologies and developing iOS, Blockchain and web3 solutions.\
 🎓 &nbsp;I'm currently pursuing my Masters in Computer Science at UNC Charlotte .\
-🌱 &nbsp;I'm on track for learning more about AI, AR/VR, Polygon.\
+🌱 &nbsp;I'm on track for learning more about AI, AR/VR.\
 ✍️ &nbsp;In my free time, I participate on Ethereum/ Blockchain competitions on Devfolio and Gitcoin .\
-🌱 &nbsp;I'm trained for basic Graphology (Hand-writing Analysis), Chirography and Calligraphy .\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion. Discord - Flamingo#9267\
+🌱 &nbsp;I'm trained for basic Graphology (Hand-writing Analysis) and Calligraphy .\
+💬 &nbsp;Feel free to reach out to me for some interesting discussion. Discord - flamingo37\
 ✉️ &nbsp;You can shoot me an email at hritikak@pm.me . I'll try to respond ASAP.
 
 <!--- <p align="left"> <a href="https://x.com/hritikamk" target="blank"><img src="https://img.shields.io/twitter/follow/hritikamk?logo=x&style=for-the-badge" alt="hritikamk" /></a> </p> -->
