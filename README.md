@@ -1,7 +1,7 @@
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
-<h1 align="center"> I'm Hritika K👋 </h1>
+<h1 align="center"> I'm Hritika K ✨ </h1>
 
 <!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hritikamk&label=Profile%20views&color=0e75b6&style=flat" alt="hritikamk" /> </p><> --->
 
