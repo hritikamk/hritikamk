@@ -7,9 +7,9 @@
 
 ### :octocat:: &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and developing iOS, Blockchain and web3 solutions.\
-🎓 &nbsp;I'm currently pursuing my Masters in Computer Science at UNC Charlotte .\
-🌱 &nbsp;I'm on track for learning more about AI, AR/VR.\
+💡 &nbsp;I like to explore new technologies and develop in Data, Blockchain and AI solutions.\
+🎓 &nbsp;I'm recent grad in Masters in Computer Science from UNC Charlotte .\
+🌱 &nbsp;I'm on track for learning more about DL, GenAI soluntions.\
 ✍️ &nbsp;In my free time, I participate on Ethereum/ Blockchain competitions on Devfolio and Gitcoin .\
 🌱 &nbsp;I'm trained for basic Graphology (Hand-writing Analysis) and Calligraphy .\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion. Discord - flamingo37\
@@ -19,7 +19,8 @@
 
 
 ### 🔭 &nbsp; I’m currently working on:
-  * Swift Programming
+  * Snowflake Dev
+  * n8n workflows
   * Bitcoin lite node solutions
     
 [![Hritika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hritikamk&bg_color=060505&color=c733bd&line=dbccda&point=403d3d&area=true&hide_border=true)](https://github.com/hritikamk)
